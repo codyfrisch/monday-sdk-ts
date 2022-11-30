@@ -1,0 +1,24 @@
+{
+  "name": "monday-sdk-ts",
+  "version": "0.0.1",
+  "description": "TypeScript SDK for working with the monday.com API v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyfrisch/monday-sdk-ts.git"
+  },
+  "keywords": [
+    "monday.com",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codyfrisch/monday-sdk-ts/issues"
+  },
+  "homepage": "https://github.com/codyfrisch/monday-sdk-ts#readme"
+}
